@@ -29,13 +29,14 @@ v .You will be prompted with questions.
 
 vi. A "README.md Successfull Generated!!" will be desplayed after answering all the questions.
 
-Click the demo image to see video demonstration:
   [![template-engine---employee-summary](Assets/Test1.png)](url)
-<<<<<<< HEAD
+
   [![template-engine---employee-summary](Assets/Test2.png)](url)
-=======
-   [![template-engine---employee-summary](imag.png)](url)
->>>>>>> 2eaae09445c1f84ca04aa3638fc823dfc02930c4
+
+  Click the demo image to see video demonstration:
+
+   [![template-engine---employee-summary](https://drive.google.com/drive/my-drive)]
+
 
   
   ## Contribution
