@@ -24,11 +24,13 @@
 
 iii. Once in the directory run npm install to install the node_modules needed to run the app.
 
-iv. npm run to test
+iv. You can run npm test to check if the app passes the test.
 
-v .You will be prompted with questions.
+v.Then Run node app.js to fill employee information and select y to add more employee and n to finish.
 
-vi. A "README.md Successfull Generated!!" will be desplayed after answering all the questions.
+vi .You will be prompted with questions and "Successfully wrote the team.html file!" will be desplayed after answering all the questions..
+
+vii.Your team.html is in your output directory where you can open it in any browser.
 
 ![template-engine---employee-summary](Assets/Team.png)
 
@@ -38,8 +40,8 @@ vi. A "README.md Successfull Generated!!" will be desplayed after answering all 
 
 ![template-engine---employee-summary](Assets/Test2.png)
 
-Click the link  to see video demonstration:
-[![template-engine---employee-summary](url)](https://drive.google.com/file/d/1rP1Vmon9O27A9EOr2N9Qxk4vqcytWojy/view?usp=sharing)
+You click the link  video demonstrating the entirety of the app's functionality 
+[template-engine---employee-summary](https://drive.google.com/file/d/1rP1Vmon9O27A9EOr2N9Qxk4vqcytWojy/view?usp=sharing)
 
 
   ## Contribution
