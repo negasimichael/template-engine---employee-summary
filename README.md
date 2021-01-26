@@ -30,12 +30,15 @@ v .You will be prompted with questions.
 
 vi. A "README.md Successfull Generated!!" will be desplayed after answering all the questions.
 
-  <!-- ![template-engine---employee-summary](Assets/Test1.png) -->
+![template-engine---employee-summary](Assets/Team.png)
+
 
   ![template-engine---employee-summary](Assets/Test1.png)
 
 
-![template-engine---employee-summary](Assets/Test2.png) (https://drive.google.com/file/d/1rP1Vmon9O27A9EOr2N9Qxk4vqcytWojy/view?usp=sharing)
+![template-engine---employee-summary](Assets/Test2.png)
+
+ ![template-engine---employee-summary](https://drive.google.com/file/d/1rP1Vmon9O27A9EOr2N9Qxk4vqcytWojy/view?usp=sharing)
 
   
   ## Contribution
