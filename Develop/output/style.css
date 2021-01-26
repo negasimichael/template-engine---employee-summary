@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+}
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.team-heading {
+    background-color: rgb(173, 17, 20);
+    color: black;
+    padding: 50px;
+    border-bottom: 1px black solid;
+}
+.employee-card {
+    box-shadow: inset 4px 3px 8px 1px;
+    -webkit-box-shadow: inset 4px 3px 8px 1px;
+    margin: 5px;
+}
+h2,h3 {
+    background-color: green ;
+    color: rgb(7, 39, 23); 
+    padding-bottom: 30px;
+    text-align: center;
+
+}
+
+i {
+    color: black;
+}
+
+.card-header {
+    border: 1px solid #000000;
+}
+.list-group-item {
+    background-color: white;
+}
