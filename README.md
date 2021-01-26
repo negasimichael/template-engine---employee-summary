@@ -14,7 +14,7 @@
   * [License](#license)
 
    ## Installation Instructions
-   The developer is authorizing a free installation by cloning from the code [negasimichael](https://github.com/negasimichael/readme-generator)
+   The developer is authorizing a free installation by cloning from the code [negasimichael] (https://github.com/negasimichael/template-engine---employee-summary)
 
    ## Usage Instructions
   i. Copy the code from the code [negasimichael](https://github.com/negasimichael/template-engine---employee-summary) and clone it in your in your comand line.
