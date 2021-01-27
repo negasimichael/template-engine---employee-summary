@@ -34,12 +34,12 @@ vii.Your team.html is in your output directory where you can open it in any brow
 
 ![template-engine---employee-summary](Assets/Team.png)
 
-![template-engine---employee-summary](Assets/R1.png)
+![template-engine---employee-summary](Assets/Test1.png)
 
-  ![template-engine---employee-summary](Assets/Test1.png)
+  ![template-engine---employee-summary](Assets/Test2.png)
 
 
-![template-engine---employee-summary](Assets/Test2.png)
+![template-engine---employee-summary](Assets/Test3.png)
 
 
 You  can click the link  video demonstrating the entirety of the app's functionality 
