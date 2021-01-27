@@ -51,7 +51,7 @@ You  can click the link  video demonstrating the entirety of the app's functiona
 
    ## Developer Contact Information
   * Linkedin Profile:[negasimichael](https://www.linkedin.com/feed/)
-  * URL : N/A
+  * Deployed URL :[negasimichael](https://negasimichael.github.io/template-engine---employee-summary/)
   * Github URL:[negasimichael](https://github.com/negasimichael/template-engine---employee-summary)
   * Email: negasimichael1@gmail.com
 
