@@ -115,11 +115,7 @@ async function renderQuestions() {
             
             // Await the results from the prompt for general qestions, then store answers as employeeAnswers
             const employeeAnswers = await inquirer.prompt(employeeInfo);
-<<<<<<< HEAD
             // for spesific quesions switch case is used based on employe etype(manager or intern or engineer).
-=======
-            // for spesific quesions switch case is used based on employee type(manager or intern or engineer).
->>>>>>> 2eaae09445c1f84ca04aa3638fc823dfc02930c4
             switch (employeeAnswers.employeeType) {
                 case "Manager": {
                     const managerAnswers = await inquirer.prompt(managerQuestions);
@@ -193,15 +189,6 @@ var  renderHTMLTemplate = async () => {
         }
     });
 }
-<<<<<<< HEAD
-
-//calling for the renderHTMLTemplet function above
-renderHTMLTemplate();
-
-
-=======
->>>>>>> 2eaae09445c1f84ca04aa3638fc823dfc02930c4
-
 //calling for the renderHTMLTemplet function above
 renderHTMLTemplate();
 
